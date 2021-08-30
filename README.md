@@ -1,3 +1,4 @@
+[telefono edgar.txt](https://github.com/C-TAM-TC1028-003-2113/tarea-1-EdgarCordex/files/7073667/telefono.edgar.txt)
 [PENDIENTE EDGAR.txt](https://github.com/C-TAM-TC1028-003-2113/tarea-1-EdgarCordex/files/7073625/PENDIENTE.EDGAR.txt)
 ![Tec de Monterrey](images/logotecmty.png)
 # Ejercicios Básicos!
